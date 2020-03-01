@@ -8,7 +8,7 @@ atari-py=0.2.6=pypi_0
 attrs=19.3.0=pypi_0
 backcall=0.1.0=pypi_0
 blas=1.0=mkl
-bleach=3.1.0=pypi_0
+bleach>=3.1.1=pypi_0
 box2d-py=2.3.8=pypi_0
 ca-certificates=2020.1.1=0
 cachetools=4.0.0=pypi_0
